@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+--------------
+
 I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid problem solver, Most of the times, you will find me brainstorming for unorthodox ways to solve an existing problem.  
 
 "Exploring newer dimensions to the existing knowledge base of mine"   
@@ -16,17 +18,14 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 - 😄 Pronouns: He/Him
   
+  ---------
   
-  #### ⚡ ***<u>My present interests</u>***
+  ### ⚡ ***<u>My present interests</u>***
   
-  ----
-  
-  
+  ------------
   
   > <img title="" src="https://lh3.googleusercontent.com/B_OoTti9VRAuewFAqlvxVytShGzTU4pduHh1pzugeWuXMW1QNJIj1MW4P4bJAWcQTTmZQBRmY1lUI7YmRHZrr9mwgRSXdav6AD9cQFyfAZcdLPBS7bFBvKALqvTCDG6_eq6u3mMl" alt="" data-align="left" width="328">
 
-------------
-
-
+--------
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayush8120&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
