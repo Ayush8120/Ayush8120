@@ -24,7 +24,7 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
   
   ------------
   
-  > <img title="" src="https://lh3.googleusercontent.com/B_OoTti9VRAuewFAqlvxVytShGzTU4pduHh1pzugeWuXMW1QNJIj1MW4P4bJAWcQTTmZQBRmY1lUI7YmRHZrr9mwgRSXdav6AD9cQFyfAZcdLPBS7bFBvKALqvTCDG6_eq6u3mMl" alt="" data-align="left" width="328">
+  > <img title="" src="https://lh3.googleusercontent.com/B_OoTti9VRAuewFAqlvxVytShGzTU4pduHh1pzugeWuXMW1QNJIj1MW4P4bJAWcQTTmZQBRmY1lUI7YmRHZrr9mwgRSXdav6AD9cQFyfAZcdLPBS7bFBvKALqvTCDG6_eq6u3mMl" alt="" data-align="center" width="328">
 
 --------
 
