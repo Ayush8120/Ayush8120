@@ -18,6 +18,6 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
   
   ###### ⚡ *My present interests*
   
-  **<img title="" src="https://lh3.googleusercontent.com/B_OoTti9VRAuewFAqlvxVytShGzTU4pduHh1pzugeWuXMW1QNJIj1MW4P4bJAWcQTTmZQBRmY1lUI7YmRHZrr9mwgRSXdav6AD9cQFyfAZcdLPBS7bFBvKALqvTCDG6_eq6u3mMl" alt="" data-align="center" width="328">
+  <img title="" src="https://lh3.googleusercontent.com/B_OoTti9VRAuewFAqlvxVytShGzTU4pduHh1pzugeWuXMW1QNJIj1MW4P4bJAWcQTTmZQBRmY1lUI7YmRHZrr9mwgRSXdav6AD9cQFyfAZcdLPBS7bFBvKALqvTCDG6_eq6u3mMl" alt="" data-align="center" width="328">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayush8120&theme=dracula&hide_border=true)](https://git.io/streak-stats)
