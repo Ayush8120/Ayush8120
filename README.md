@@ -18,7 +18,7 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
   
   ---------
   
-  ### ⚡ ***<u>My present interests</u>***
+  ### ⚡ ***<u><b>My present interests</b></u>***
   
   ------------
   
