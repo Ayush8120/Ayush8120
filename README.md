@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--------------
+--------------
 
 I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid problem solver, Most of the times, you will find me brainstorming for unorthodox ways to solve an existing problem.  
 
