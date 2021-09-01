@@ -6,9 +6,9 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 "Exploring newer dimensions to the existing knowledge base of mine"   
 
-- 🔭 I’m currently working as a research intern at the  [ARMS Lab at IIT Bombay](https://www.sc.iitb.ac.in/robotics/)
+- 🔭 I’m currently looking for opportunities to carry out my Bachelor's Thesis.
 
-- 🌱 I’m currently learning concepts of path planning and control for UAVs, although I often dive into Deep Learning.
+- 🌱 I am fluid with my skillset and can learn any new technology or study about any field if it helps me in my project at hand.
 
 - 👯 I’m looking to collaborate on projects that lie at the intersection of ML,Robotics and Sensor Fusion.
 
