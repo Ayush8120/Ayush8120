@@ -30,4 +30,4 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 --------
 
-![](https://komarev.com/ghpvc/agarwalaman263)
+![aman](https://komarev.com/ghpvc/agarwalaman263)
