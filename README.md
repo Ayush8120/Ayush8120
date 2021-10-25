@@ -10,9 +10,9 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 - 🌱 I am fluid with my skillset and can learn any new technology or study about any field if it helps me in my project at hand.
 
-- 👯 I’m looking to collaborate on projects that lie at the intersection of ML,Robotics and Sensor Fusion.
+- 👯 I would love to collaborate on projects along the lines of Insect-Inspired Robotics.
 
-- 🤔 I’m forever looking for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
+- 🤔 I’m always open for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
 
 - 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/ay-agrawal/) or just shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
 
