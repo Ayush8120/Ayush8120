@@ -6,9 +6,9 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 "Exploring newer dimensions to the existing knowledge base of mine"   
 
-- 🔭 I’m currently looking for opportunities to carry out my Bachelor's Thesis.
+- 🔭 I’m currently a Research Intern at [CSIR-CEERI](https://www.ceeri.res.in/), working on an odor localization drone.
 
-- 🌱 I am fluid with my skillset and can learn any new technology or study about any field if it helps me in my project at hand.
+- 🌱 I am fluid with my skillset and enjoy learning about new fields. 
 
 - 👯 I would love to collaborate on projects along the lines of Insect-Inspired Robotics.
 
