@@ -6,11 +6,11 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 "Exploring newer dimensions to the existing knowledge base of mine"   
 
-- 🔭 I’m currently a Research Intern at [CSIR-CEERI](https://www.ceeri.res.in/), working on an odor localization drone.
+- 🔭 I’m currently a Research Intern at UNSW Canberra, working in the field of Cognitive Robotics.
 
 - 🌱 I am fluid with my skillset and enjoy learning about new fields. 
 
-- 👯 I would love to collaborate on projects along the lines of Insect-Inspired Robotics.
+- 👯 I would love to collaborate on projects along the lines of Bio-Inspired Robotics | Cognitive Sciences
 
 - 🤔 I’m always open for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
 
