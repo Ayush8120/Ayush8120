@@ -8,8 +8,6 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 - 🔭 I’m currently a Research Intern at UNSW Canberra, working in the field of Cognitive Robotics.
 
-- 🌱 I am fluid with my skillset and enjoy learning about new fields. 
-
 - 👯 I would love to collaborate on projects along the lines of Bio-Inspired Robotics | Cognitive Sciences
 
 - 🤔 I’m always open for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
@@ -20,7 +18,7 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 --------------
   
 <!-- ### ⚡ ***<u><b>My present interests</b></u>*** -->
-  
+<!-- - 🌱 I am fluid with my skillset and enjoy learning about new fields.  -->
 ---------------
   
 <!-- <p align="center">
