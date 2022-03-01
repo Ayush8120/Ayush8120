@@ -26,6 +26,7 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
   <img width="400" height="400" src="https://user-images.githubusercontent.com/72944387/132033126-4e9b5091-f208-4707-8f7f-d36a95019b39.png">
 </p>
  -->
+ ![Visitor Count](https://profile-counter.glitch.me/Ayush8120/count.svg)
 --------
 
 
