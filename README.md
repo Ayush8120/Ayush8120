@@ -6,9 +6,9 @@ I'm Ayush, a final year undergrad at BITS Pilani, Pilani Campus.I'm an avid prob
 
 "Exploring newer dimensions to the existing knowledge base of mine"   
 
-- 🔭 I’m currently a Research Intern at UNSW Canberra, working in the field of Bio-Robotics.
+- 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad.
 
-- 👯 I would love to collaborate on projects along the lines of Bio-Inspired Robotics | Cognitive Sciences
+- 👯 I would love to collaborate on projects along the lines of Cognitive Robotics | Cognitive Sciences
 
 - 🤔 I’m always open for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
 
