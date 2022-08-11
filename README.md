@@ -12,7 +12,7 @@ I'm Ayush, an Instrumentation graduate from BITS Pilani, Pilani Campus. I'm an a
 
 - 🤔 I’m always open for project ideas that benefit the environment.(If you got one, feel free to hit me up!) 
 
-- 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/ay-agrawal/) or just shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
+- 📫 How to reach me: Shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayush8120&theme=blood-dark&hide_border=true)](https://git.io/streak-stats) -->
 --------------
