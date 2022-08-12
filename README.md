@@ -11,11 +11,10 @@ I'm Ayush, an Instrumentation Undergraduate from BITS Pilani, Pilani Campus.
 - 📫 How to reach me: Shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayush8120&theme=blood-dark&hide_border=true)](https://git.io/streak-stats) -->
---------------
+
   
 <!-- ### ⚡ ***<u><b>My present interests</b></u>*** -->
 <!-- - 🌱 I am fluid with my skillset and enjoy learning about new fields.  -->
----------------
   
 <!-- <p align="center">
   
@@ -23,7 +22,6 @@ I'm Ayush, an Instrumentation Undergraduate from BITS Pilani, Pilani Campus.
 </p>
  -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Ayush8120/count.svg) -->
---------
-
+----------
 
 
