@@ -2,7 +2,7 @@
 
 --------------
 
-I'm Ayush, an Instrumentation Undergraduate from BITS Pilani, Pilani Campus.
+I'm Ayush, an B.E. Electronics Graduate from BITS Pilani, Pilani Campus.
 
 - 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad.
 
