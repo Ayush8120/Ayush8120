@@ -2,11 +2,11 @@
 
 --------------
 
-I'm Ayush, an B.E. Electronics Graduate from BITS Pilani, Pilani Campus.
+I'm Ayush, an Electronics Graduate from BITS Pilani, Pilani Campus.
 
-- 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad.
+<!--- 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad. -->
 
-- 👯 I would love to collaborate on projects along the lines of Cognitive Robotics | Cognitive Sciences
+- 👯 I love working on projects along the lines of Cognitive Robotics | Cognitive Sciences
 
 - 📫 How to reach me: Shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
 
@@ -21,7 +21,7 @@ I'm Ayush, an B.E. Electronics Graduate from BITS Pilani, Pilani Campus.
   <img width="400" height="400" src="https://user-images.githubusercontent.com/72944387/132033126-4e9b5091-f208-4707-8f7f-d36a95019b39.png">
 </p>
  -->
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Ayush8120/count.svg) -->
+<!--![Visitor Count](https://profile-counter.glitch.me/Ayush8120/count.svg)-->
 ----------
 
 
