@@ -2,7 +2,9 @@
 
 --------------
 
-I'm Ayush, an Electronics Graduate from BITS Pilani, Pilani Campus.
+I'm Ayush! I love observing evolved behaviors and mimicking them onto robots.
+
+<!---an Electronics Graduate from BITS Pilani, Pilani Campus.-->
 
 <!--- 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad. -->
 
