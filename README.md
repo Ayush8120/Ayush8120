@@ -8,7 +8,7 @@ I'm Ayush! I love observing evolved behaviors and mimicking them onto robots.
 
 <!--- 🔭 I’m currently a Research Assistant at Robotics Research Center, IIIT Hyderabad. -->
 
-- 👯 I love working on projects along the lines of Cognitive Robotics | Cognitive Sciences
+- 👯 I love working on projects along the lines of Cognitive Robotics | Cognitive Sciences | Game Development
 
 - 📫 How to reach me: Shoot me an [e-mail](mailto:ay.agrawal812@gmail.com)
 
